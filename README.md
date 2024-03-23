@@ -1,6 +1,9 @@
 
 # eShop App with MVVM + Retrofit + Use Cases + Mapper + Dagger Hilt + Coroutines + Flow + Generics + Sealed class & broadcast receiver using Jetpack Compose
 
+<img src="https://github.com/Dinesh2510/EShop-Jetpack-Compose-API-Demo/blob/main/youtube%20thumbnail%20(6).png" width="750" class="center">
+
+
 Welcome to the eShop App! This Android application is designed to provide users with a seamless shopping experience, allowing them to browse through a variety of products and make purchases directly from their mobile devices. Built with modern Android development tools and architectural patterns, including Retrofit, MVVM, Hilt, Coroutines, Flow, and broadcast receiver using Jetpack Compose, this app combines robust functionality with a sleek and intuitive user interface.
 
 ## Features
@@ -27,6 +30,10 @@ The eShop App follows a modern and scalable architecture based on the MVVM (Mode
 - **Jetpack Compose**: Modern UI toolkit for building native Android user interfaces.
 - **Broadcast Receiver**: Component for listening to and responding to system-wide broadcast messages.
 
+
+| MainPage | Details Page | 
+|------------|-------------|
+| ![MainPage ](ss0.png) | ![Details](ss1.png) |
 ## Getting Started
 
 To run the eShop App locally and explore its features, follow these steps:
