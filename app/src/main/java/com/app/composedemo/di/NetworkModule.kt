@@ -1,7 +1,7 @@
 package com.app.composedemo.di
 
 import com.app.composedemo.api.ApiService
-import com.app.composedemo.Constants.Companion.BASE_URL
+import com.app.composedemo.utlis.Constants.Companion.BASE_URL
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
